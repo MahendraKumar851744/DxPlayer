@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456297447209",
+    "project_id": "dx-player-9ac5e",
+    "storage_bucket": "dx-player-9ac5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456297447209:android:1a018eebeabdbb73668138",
+        "android_client_info": {
+          "package_name": "com.androidai.dxplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456297447209-62snbc0ajja1bg1l2560m6lnq1be8nvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxC3uHCEKFwcUzaPJPM7eiphekj9X1Knk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456297447209-62snbc0ajja1bg1l2560m6lnq1be8nvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

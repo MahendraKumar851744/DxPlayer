@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:id="@+id/lay_permission"
+    android:padding="20dp"
+    android:layout_margin="10dp"
+    android:gravity="center"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="300dp"
+        android:src="@drawable/folderficon"
+
+        android:layout_height="80dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:layout_marginVertical="5dp"
+        android:fontFamily="@font/poppins_medium"
+        android:textColor="#E6000000"
+        android:text="@string/permission"
+        />
+    <Button
+        android:id="@+id/allow_access"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Open Settings"
+        android:textAllCaps="false"
+        android:paddingHorizontal="30dp"
+
+        android:textColor="@android:color/white"
+        />
+
+</LinearLayout>
